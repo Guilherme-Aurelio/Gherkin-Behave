@@ -1,19 +1,8 @@
----
-marp: true
-theme: default
-class: 
-  - lead
-backgroundImage: url('./../if_back1.png')
-
-paginate: true
----
- 
 # Testes de Especificação
 ### Prof. Dr. Valério Gutemberg
 #### Andriéria, Bruno Pithon, Guilherme Aurélio, João Paulo e Kelvin
 #### Disciplina de Testes de Software
 Curso de Sistemas para Internet
-
 
 ---
 
@@ -338,4 +327,3 @@ Behave, Gherkin e BDD formam uma poderosa combinação para escrever testes de e
 # Obrigado!
 
 Dúvidas?
-
